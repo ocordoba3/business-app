@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "business-app-9830e": {
+      "hosting": {
+        "businessApp": [
+          "business-app-9830e"
+        ]
+      }
+    }
+  }
+}
